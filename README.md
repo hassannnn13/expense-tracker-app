@@ -40,17 +40,5 @@ ExpenseTrackerApp/
 ├── requirements.txt
 └── README.md
 
-## Installation
-
-1. Clone the repository
-```bash
-git clone <repository-url>
-
-2.Navigate to the project folder
-cd expense-tracker
-
-3.Install dependencies
-pip install -r requirements.txt
-
-4.Run the application
-python app.py
+## Author
+Hassan
